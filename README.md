@@ -6,21 +6,21 @@ The Brooklyn College Helpline Website is an intuitive mental health platform des
 
 # Features
 
-•	Resource Provision: Offers a comprehensive library of articles, videos, and tools to help manage mental health.
-•	Counseling Sessions: Provides various types of counseling sessions tailored to individual needs, including one-on-one and group therapy.
-•	Emergency Contacts: Lists emergency contact information for immediate support in critical situations.
+1. Resource Provision: Offers a comprehensive library of articles, videos, and tools to help manage mental health.
+2. Counseling Sessions: Provides various types of counseling sessions tailored to individual needs, including one-on-one and group therapy.
+3. Emergency Contacts: Lists emergency contact information for immediate support in critical situations.
 
 
 # Needs
 
-•	Accessibility: The website makes mental health resources more accessible to students who may not visit the counseling center in person.
-•	Anonymity: It provides a private and secure environment, encouraging students to seek help without fear of stigma.
-•	Convenience: Students can access help anytime and anywhere, fitting mental health support into their busy schedules.
+1.	Accessibility: The website makes mental health resources more accessible to students who may not visit the counseling center in person.
+2.  Anonymity: It provides a private and secure environment, encouraging students to seek help without fear of stigma.
+3. 	Convenience: Students can access help anytime and anywhere, fitting mental health support into their busy schedules.
 
 # Demographics
 
-•	Primary Users: Brooklyn College students, both undergraduate and graduate.
-•	Secondary Users: Faculty and staff members who want to support students’ mental health.
+1. Primary Users: Brooklyn College students, both undergraduate and graduate.
+2. Secondary Users: Faculty and staff members who want to support students’ mental health.
 
 # Copyright
 Faizan Khan 
