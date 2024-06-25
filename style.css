@@ -1,0 +1,171 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  background: maroon;
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.logo {
+  width: 50px; 
+  height: auto;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 1rem;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  flex: 1;
+  padding: 2rem;
+  margin-left: 18px;
+  margin-right: 18px;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+#hero {
+  text-align: center;
+  padding: 2rem;
+  background: #f4f4f4;
+  margin-bottom: 2rem;
+}
+
+#hero h2 {
+  margin-bottom: 1rem;
+}
+
+#hero p {
+  margin-bottom: 1.5rem;
+}
+
+#contactForm {
+  display:flex;
+  flex-direction:column;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: maroon;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+#services-overview {
+  margin-bottom: 2rem;
+}
+
+#services-overview h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.service {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.service h3 {
+  margin-top: 0;
+}
+
+.more-button {
+  display: block;
+  text-align: center;
+  padding: 0.75rem 1.5rem;
+  background: maroon;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 1.5rem auto 0 auto;
+  width: 200px;
+}
+
+#testimonials {
+  background: #f4f4f4;
+  padding: 2rem;
+}
+
+#testimonials h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.testimonial {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.testimonial p {
+  margin: 0.5rem 0;
+}
+
+
+.info-handout {
+  list-style-type: none;
+}
+
+footer {
+  background: maroon;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+    .logo-container {
+        flex-direction: column;
+    }
+
+    nav ul {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}
